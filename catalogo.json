@@ -1,0 +1,92 @@
+[
+    {
+        "id": "1",
+        "idCategoria": 1, 
+        "nombre":"SÉRUM INTENSIVO LIFTING & FIRMEZA",
+        "marca": "CHRONOS - Natura",
+        "precio": 7000,
+        "img":"https://firebasestorage.googleapis.com/v0/b/ecommerce-react-pouskin.appspot.com/o/Natura.png?alt=media&token=2f98892e-5440-4815-bdaf-7190648c2d36",
+        "cantidad": 20
+    },
+    {
+        "id": "2",
+        "idCategoria": 1,
+        "nombre":"SÉRUM REVITALFT CON ÁCIDO HIALURÓNICO",
+        "marca": "revitalift - L'oreal",
+        "precio": 7000,
+        "img":"https://firebasestorage.googleapis.com/v0/b/ecommerce-react-pouskin.appspot.com/o/Loreal.png?alt=media&token=939eb46f-fe81-4d91-9eba-acbe4137764b",
+        "cantidad":20
+    },
+    {
+        "id": "3",
+        "idCategoria": 1,
+        "nombre":"LOCIÓN HIDRATANTE PARA ROSTRO CON FPS",
+        "marca": "CeraVe",
+        "precio": 2800,
+        "img": "https://firebasestorage.googleapis.com/v0/b/ecommerce-react-pouskin.appspot.com/o/Cerave.png?alt=media&token=57213d77-9e9d-4cd1-be60-c9692f709326",
+        "cantidad":40
+    },
+    {
+        "id": "4",
+        "idCategoria": 1,
+        "nombre":"Agua Micelar Todo en 1",
+        "marca": "Garnier - Skin Active",
+        "precio": 1179,
+        "img":"https://firebasestorage.googleapis.com/v0/b/ecommerce-react-pouskin.appspot.com/o/Garnier.png?alt=media&token=6917e029-8b1f-4f5e-95e3-8e2d7670c0a9",
+        "cantidad":35
+    },
+    {
+        "id": "5",
+        "idCategoria": 1,
+        "nombre":"KIT RUTINA BÁSICA ",
+        "marca": "The Chemist Look",
+        "precio": 8480,
+        "img": "https://firebasestorage.googleapis.com/v0/b/ecommerce-react-pouskin.appspot.com/o/TCL.png?alt=media&token=e233f5f9-bf6b-47c2-be66-ede6580639ea",
+        "cantidad":10
+    },
+    {
+        "id": "6",
+        "idCategoria": 1,
+        "nombre":"Sérum Ultra Concentrate",
+        "marca": "La Roche-Posay",
+        "precio": 8750,
+        "img":"https://firebasestorage.googleapis.com/v0/b/ecommerce-react-pouskin.appspot.com/o/LaRochePosay.png?alt=media&token=81524774-0d1e-4d43-97c7-2b374a8182e5",
+        "cantidad":15
+    },
+    {
+        "id": "7",
+        "idCategoria": 2,
+        "nombre":"Capture DreamSkin",
+        "marca": "Dior",
+        "precio": 11300,
+        "img":"https://firebasestorage.googleapis.com/v0/b/ecommerce-react-pouskin.appspot.com/o/makeup1.png?alt=media&token=ede4ae84-d23d-4598-88a2-298ed02f85d4",
+        "cantidad":20
+    },
+    {
+        "id": "8",
+        "idCategoria": 2,
+        "nombre":"CHANELPOUDRE LUMIÈRE",
+        "marca": "Channel",
+        "precio": 12000,
+        "img":"https://firebasestorage.googleapis.com/v0/b/ecommerce-react-pouskin.appspot.com/o/makeup2.png?alt=media&token=a30a4cdc-7ad3-4804-934b-98a09bdb9ac6",
+        "cantidad":24
+    },
+    {
+        "id": "9",
+        "idCategoria": 2,
+        "nombre":"DIOR ADDICT",
+        "marca": "Dior",
+        "precio": 10400,
+        "img":"https://firebasestorage.googleapis.com/v0/b/ecommerce-react-pouskin.appspot.com/o/makeup3.png?alt=media&token=c745cb1a-8ae1-4c57-93f1-9865e14b076c",
+        "cantidad":15
+    },
+    { 
+        "id": "10",
+        "idCategoria": 2,
+        "nombre":"DIOR BACKSTAGE FACE",
+        "marca": "Dior",
+        "precio": 9800,
+        "img":"https://firebasestorage.googleapis.com/v0/b/ecommerce-react-pouskin.appspot.com/o/makeup4.png?alt=media&token=7ce3b60d-6e19-40f2-ab1d-a79f11331178",
+        "cantidad":10
+    }
+]
